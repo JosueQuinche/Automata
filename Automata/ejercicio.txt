@@ -1,0 +1,6 @@
+int numero = 25;
+float pi = 3.14;
+if (numero > 10) {
+   // Este es un comentario
+   pi = pi + 1.0;
+}
